@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Eduardo Sa",
-  "start": "node index.js",
+  "start": "node index2.js",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1"
